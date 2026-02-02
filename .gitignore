@@ -1,0 +1,15 @@
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+
+# No subir archivos >90MB
+*.jar if size > 90m
+
+# Configuraciones IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
